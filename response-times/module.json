@@ -17,7 +17,7 @@
 		"lib/Chart.css"
 	],
 	"url": "https://gitlab.com/tenuki.igo/foundryvtt-ping-times",
-	"manifest": "https://raw.githubusercontent.com/winterwulf/response-times/main/response-times/module.json",
+	"manifest": "https://github.com/winterwulf/response-times/raw/main/response-times.zip",
 	"download": "https://gitlab.com/tenuki.igo/foundryvtt-ping-times/-/raw/v1.0.2/package/response-times-v1.0.2.zip",
 	"readme": "",
 	"bugs": "",
